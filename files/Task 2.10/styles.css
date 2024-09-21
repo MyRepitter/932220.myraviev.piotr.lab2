@@ -1,0 +1,13 @@
+.float_box {
+    background: #7fffd4;
+    float: left;
+    width: 180px;
+    height: 100px;
+    margin: 15px;
+}
+
+.clear_box {
+    background: #ffe4c4;
+    clear: both;
+    width: 100%;
+}

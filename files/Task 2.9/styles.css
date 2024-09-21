@@ -1,0 +1,12 @@
+div {
+    margin: auto;
+    width: 600px;
+    background: #0000ff;
+    color: white;
+}
+
+img {
+    float: right; 
+    margin-left: 15px; 
+    margin-bottom: 15px;
+}

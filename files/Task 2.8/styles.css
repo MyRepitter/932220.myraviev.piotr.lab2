@@ -1,0 +1,24 @@
+nav {
+    background: #ffe4c4;
+    float: left;
+    width: 200px;
+}
+
+main {
+    background: #a9a9a9;
+    margin-left: 200px;
+}
+
+footer {
+    background: #32cd32;
+    position: fixed;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
+    left: 0px;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,29 @@
+nav {
+    background: #ffe4c4;
+    float: left;
+    width: 395px;
+}
+
+main {
+    background: #a9a9a9;
+    margin-left: 400px;
+}
+
+div {
+    border: 1px solid green;
+    background: #00ffff;
+}
+
+@media (max-width:600px) {
+    nav {
+        padding-top: 1px;
+        padding-bottom: 1px;
+        width: 200px;
+        float: none;
+    }
+
+    main {
+        margin-right: 100px;
+        margin-left: 0;
+    }
+}

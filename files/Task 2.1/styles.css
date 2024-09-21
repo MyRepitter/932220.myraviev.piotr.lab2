@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background: #eaeaea;
+    height: auto;
+    min-height: 72px;
+}
+
+aside {
+    box-sizing: border-box;
+    background: #c8fc98;
+    width: 200px;
+    float: left;
+    padding: 0px 8px 4px 8px;
+}
+
+footer {
+    background: black;
+    text-align: center;
+    padding: 8px;
+    clear: both;
+}
+
+i {
+    color: red;
+}

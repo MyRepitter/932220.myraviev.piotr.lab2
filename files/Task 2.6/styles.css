@@ -1,0 +1,15 @@
+
+.upper {
+    margin: auto;
+    width: 500px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.the_one_below {
+    margin: auto;
+    border: solid 10px #0000ff;
+    box-sizing: border-box;
+    width: 500px;
+    padding: 50px;
+}

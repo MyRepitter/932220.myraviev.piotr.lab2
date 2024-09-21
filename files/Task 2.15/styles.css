@@ -1,0 +1,12 @@
+
+.inline_block {
+    background: #7fffd4;
+    width: 200px;
+    height: 100px;
+    margin: 14px;
+    display: inline-block;
+}
+
+.quote {
+    background: #faebd7;
+}

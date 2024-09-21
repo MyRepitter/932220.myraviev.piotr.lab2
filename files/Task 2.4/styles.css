@@ -1,0 +1,7 @@
+div {
+    width: auto;
+    margin: auto;
+    max-width: 600px;
+    background: blue;
+    color: white;
+}

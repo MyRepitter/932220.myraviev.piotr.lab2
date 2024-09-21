@@ -1,0 +1,29 @@
+nav {
+    background: #ffe4c4;
+    width: 400px;
+    float: left;
+}
+
+main {
+    background: #a9a9a9;
+    margin-left: 400px;
+}
+
+@media (max-width:600px) {
+    nav {
+        float: none;
+        width: 100%;
+        box-sizing: border-box;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    nav ul li {
+        display: inline;
+    }
+   
+    main {
+        margin-left: 0;
+    }
+
+}

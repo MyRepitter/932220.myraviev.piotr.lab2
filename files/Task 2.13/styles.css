@@ -1,0 +1,31 @@
+nav {
+    background: #ffe4c4;
+    width: 400px;
+    float: left;
+}
+
+main {
+    background: #a9a9a9;
+    margin-left: 400px;
+}
+
+img {
+    float: right;
+    width: 700px;
+}
+
+@media (max-width: 1500px) {
+    nav {
+        width: 120px;
+        padding-bottom: 1px;
+        padding-top: 1px;
+    }
+
+    main {
+        margin-left: 120px;
+    }
+
+    img {
+        width: 175px;
+    }
+}

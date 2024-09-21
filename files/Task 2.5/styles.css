@@ -1,0 +1,17 @@
+
+.upper {
+    background: #008000;
+    color: white;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.the_one_below {
+    background: #0000ff;
+    color: white;
+    padding: 25px;
+    border: solid 25px #0000ff;
+    width: 500px;
+    margin: auto; 
+}
